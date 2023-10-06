@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/park-js/static/css/main.9a820fb6.css",
-    "main.js": "/park-js/static/js/main.8ef72404.js",
+    "main.css": "/park-js/static/css/main.3024e22a.css",
+    "main.js": "/park-js/static/js/main.a42566da.js",
     "static/media/iPhone.png": "/park-js/static/media/iPhone.35595c964b46c008374b.png",
     "static/media/map.png": "/park-js/static/media/map.4a5f31844efce695e405.png",
     "static/media/Group2.png": "/park-js/static/media/Group2.678ed7714f7c2c83773e.png",
@@ -11,11 +11,11 @@
     "static/media/icon1.svg": "/park-js/static/media/icon1.02776e233628fb20cf74dd46ec28229b.svg",
     "static/media/icon3.svg": "/park-js/static/media/icon3.d2582a16ec57b036dfe4b0d900d35ceb.svg",
     "index.html": "/park-js/index.html",
-    "main.9a820fb6.css.map": "/park-js/static/css/main.9a820fb6.css.map",
-    "main.8ef72404.js.map": "/park-js/static/js/main.8ef72404.js.map"
+    "main.3024e22a.css.map": "/park-js/static/css/main.3024e22a.css.map",
+    "main.a42566da.js.map": "/park-js/static/js/main.a42566da.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a820fb6.css",
-    "static/js/main.8ef72404.js"
+    "static/css/main.3024e22a.css",
+    "static/js/main.a42566da.js"
   ]
 }
